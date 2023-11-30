@@ -6,8 +6,6 @@ created with Google Colab: https://colab.research.google.com/drive/1A-0nDgHB1NOV
 Files Included
 credit_risk_dataset (1).csv: The dataset containing information about individuals and their credit risk status.
 
-credit_risk_prediction.py: The main Python script.
-
 Dependencies
 pandas
 scikit-learn (for train_test_split)
